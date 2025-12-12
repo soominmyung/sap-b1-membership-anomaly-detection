@@ -36,7 +36,7 @@ Final determination of whether a case is inappropriate is expected to be made th
 │ ├─ membership_detection.sql
 │ └─ membership_drilldown.sql
 └─ sample_output/
-   └─ detection_output.csv
+  └─ detection_output.csv
 ```
 
 - `membership_detection.sql`  
